@@ -1,5 +1,7 @@
 # Build a Small Business Website
+@interface <#class name#> (<#category name#>)
 
+@end
 ## Directions
 
 Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
